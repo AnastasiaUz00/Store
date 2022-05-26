@@ -11,7 +11,7 @@ namespace Store
         public static void m()
         {
             Console.WriteLine("Cash Desk in the stor");
-
+            Console.WriteLine("Start");
         }
     }
 }
